@@ -13,3 +13,11 @@ Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libe
 <p align="center">
   Si te gusto el proyecto sígueme y dame apoyo para seguir creando más contenido.
 </p>
+<p align="center">
+  <a target="_blank" href="https://romerojose.com/"><img src="https://github.com/romerojoseing/email/blob/master/img/facebook.png?raw=true" height="25" style="padding: 15px;"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/romerojoseing/"><img src="https://github.com/romerojoseing/email/blob/master/img/facebook.png?raw=true" height="25" style="padding: 15px;"></a>
+  <a target="_blank" href="https://github.com/romerojoseing"><img src="https://github.com/romerojoseing/email/blob/master/img/facebook.png?raw=true" height="25" style="padding: 15px;"></a>
+  <a target="_blank" href="https://www.instagram.com/romerojoseing/"><img src="https://github.com/romerojoseing/email/blob/master/img/facebook.png?raw=true" height="25" style="padding: 15px;"></a>
+  <a target="_blank" href="https://www.facebook.com/romerojoseing"><img src="https://github.com/romerojoseing/email/blob/master/img/facebook.png?raw=true" height="25" style="padding: 15px;"></a>
+  <a target="_blank" href="https://twitter.com/romerojoseing"><img src="https://github.com/romerojoseing/email/blob/master/img/facebook.png?raw=true" height="25" style="padding: 15px;"></a>
+</p>
