@@ -1,23 +1,18 @@
-<p align="center"><img src="https://github.com/romerojoseing/archivos/blob/master/img/logov.png?raw=true" width="150"></p>
+# Repositorio de Archivos
 
-<p align="center">
-Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libertad, siempre teniendo el mayor respeto por los autores que desarrollaron el proyecto.
-</p>
+_Archivos correspondientes a los README.md de cada repositorio._
 
-<br>
+## Autor ✒️
 
-## Autor
+_Si te gusta lo que hago, visita mi web y comparte mi contenido, también puedes seguirme en mis redes para estar al tanto de nuevas publicaciones y proyectos interesantes que estaré desarrollando._
 
-<p align="center"><img src="https://github.com/romerojoseing/archivos/blob/master/img/logoh.png?raw=true" width="200"></p>
+Diseñado con ❤️ por [Romero José](https://romerojose.com/)
 
-<p align="center">
-  Si te gusto el proyecto sígueme y dame apoyo para seguir creando más contenido.
-</p>
-<p align="center">
-  <a target="_blank" href="https://romerojose.com/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/web.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://www.linkedin.com/in/romerojoseing/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/linkedin.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://github.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/github.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://www.instagram.com/romerojoseing/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/instagram.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://www.facebook.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/facebook.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://twitter.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/twitter.png?raw=true" height="20"></a>
-</p>
+### Redes Sociales
+
+* **GitHub** - *Repositorios de mis últimos proyectos* - [romerojoseing](https://github.com/villanuevand)
+* **CodePen** - *Mini proyectos y pruebas interesantes* - [romerojoseing](#fulanito-de-tal)
+* **LinkedIn** - *Perfil desarrollador profesional* - [romerojoseing](#fulanito-de-tal)
+* **Instagram** - *Documentando mi viaje* - [romerojoseing](#fulanito-de-tal)
+* **Facebook** - *Publicaciones y contenido promocional* - [romerojoseing](#fulanito-de-tal)
+* **Twitter** - *Comentarios random y más* - [romerojoseing](#fulanito-de-tal)
